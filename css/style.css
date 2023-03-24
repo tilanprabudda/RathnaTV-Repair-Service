@@ -1215,6 +1215,10 @@ section {
     background-image: url(../images/email_icn.svg);
 }
 
+.footer_section .foote_col.contactUs_col .footer_navigation li.location_li {
+    background-image: url(../images/loc_icn.svg);
+}
+
 .footer_section .footer_bottom {
     margin-top: 10px;
     border-top: 2px solid #D7DBE8;
